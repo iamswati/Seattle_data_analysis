@@ -27,11 +27,6 @@ import seaborn as sns
 
 # Readind 2015-building-energy-benchmarking.csv file
 
-```
-df_2015=pd.read_csv(r"C:\Users\swati\Desktop\Project 2\2015-building-energy-benchmarking.csv")
-df_2015
-```
-
 ## Drop un-necessary columns
 
 ```
